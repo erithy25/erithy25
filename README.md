@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Erik 👋</h1>
 
-<!--
-**erithy25/erithy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  15 y/o builder from Germany · Interested in ML, Robotics & Aviation
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+
+- 🏌️ **[Parameter Golf](https://github.com/erithy25/parameter-golf)** — Competing in OpenAI's challenge to build the best LLM that fits in 16MB
+- 🤖 **[NEURON](https://github.com/erithy25/Neuron)** — Natural language robot control platform
+- 👻 **[Spectr](https://github.com/erithy25/Spectr)** — AI-powered desktop overlay tool
+
+---
+
+### 🛠️ Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Parameter Golf** | Competing to build the best LLM in 16MB | Python, PyTorch |
+| **NEURON** | Control robots with natural language | TypeScript |
+| **Spectr** | AI desktop overlay | TypeScript |
+| **NovaOS** | Bootable OS with text editor, calculator & more | Assembly/C |
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erithy25&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🌍 About me
+
+- 🇩🇪 Based in Germany
+- 🧠 Interested in ML research & robotics
+- 📬 Reach me at erik.thye@icloud.com
