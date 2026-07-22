@@ -30,6 +30,7 @@ I design, direct and ship real software with AI tools like Claude Code — and I
 | **Grid Delivery Network** | Spec-first multi-tenant B2B SaaS for grid connection project delivery | TypeScript, PostgreSQL | 📐 Spec-first |
 | **ENGRAMM** | VSA / hyperdimensional computing ML research with preregistered benchmarks | Python, NumPy | 🔬 Research |
 | **Vera** | Local-first macOS AI assistant, fully encrypted, signed .dmg | Rust, Tauri v2, SQLite, Ollama | ✅ Shipped |
+| **Bon Validation System** | Receipt validation engine for cashback promotions, licensed commercially at 14 | Python, FastAPI | 💰 Sold |
 | **PRISM** | Verification API — hash-chain integrity for data & actions | TypeScript | ✅ Shipped |
 | **Parameter Golf** | OpenAI challenge: the best LLM that fits in 16MB | Python, PyTorch | 🏆 Competing |
 | **NovaOS** | Bootable OS with text editor, calculator & more | Assembly, C | 🧪 Experiment |
