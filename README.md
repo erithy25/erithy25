@@ -27,6 +27,7 @@ I design, direct and ship real software with AI tools like Claude Code — and I
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | **BLACKBOX** | Flight recorder for AI agents — hash-chained, signed, replayable | TypeScript, Rust | 🔨 Building |
+| **Grid Delivery Network** | Spec-first multi-tenant B2B SaaS for grid connection project delivery | TypeScript, PostgreSQL | 📐 Spec-first |
 | **ENGRAMM** | VSA / hyperdimensional computing ML research with preregistered benchmarks | Python, NumPy | 🔬 Research |
 | **Vera** | Local-first macOS AI assistant, fully encrypted, signed .dmg | Rust, Tauri v2, SQLite, Ollama | ✅ Shipped |
 | **PRISM** | Verification API — hash-chain integrity for data & actions | TypeScript | ✅ Shipped |
